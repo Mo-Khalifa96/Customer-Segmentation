@@ -11,7 +11,7 @@ In order to perform cluster analysis to segment customers into different cluster
 
 <div style="font-family: Arial; font-size: 12pt; font-weight: bold; line-height:1.5">
 
-<strong> **Overall, this project is broken down into 7 sections:** </strong> <br><br>
+<strong> **Overall, this project is broken down into 7 sections:** </strong> <br>
 &emsp;&ensp; **1. Reading and Inspecting the Data** <br>
 &emsp;&ensp; **2. Updating the Data** <br>
 &emsp;&ensp; **3. Exploratory Data Analysis** <br>
