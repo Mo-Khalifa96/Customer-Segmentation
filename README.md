@@ -72,7 +72,6 @@ In order to perform cluster analysis to segment customers into different cluster
 **To quickly access the project, I provided two links, both of which will direct you to Jupyter Notebook with all the code and corresponding output rendered and organized into separate sections and sub-sections. Each section is provided with thorough explanations that guide the project development one step at a time. The first link, however, only allows you to view the project without interacting with its code. The second link allows you to both the view the code and also interact with it directly to reproduce the analysis results if you wish so. To execute the code, please make sure to run the first two cells first in order to install the Python modules necessary for the task and make them ready for use. To run any given block of code, simply select the cell and click on the 'Run' icon on the notebook toolbar.** </div>
 <br>
 <br>
-<br>
 
 ***To view the project only, click on the following link:*** <br>
 https://nbviewer.org/github/Mo-Khalifa96/Customer-Segmentation/blob/main/Customer%20Segmentation%20%28Unsupervised%20ML%20for%20Cluster%20Analysis%29.ipynb
@@ -82,6 +81,7 @@ https://nbviewer.org/github/Mo-Khalifa96/Customer-Segmentation/blob/main/Custome
 https://mybinder.org/v2/gh/Mo-Khalifa96/Customer-Segmentation/main?labpath=Customer+Segmentation+%28Unsupervised+ML+for+Cluster+Analysis%29.ipynb
 <br>
 </div>
+<br>
 <br>
 
 
