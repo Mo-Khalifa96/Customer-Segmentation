@@ -1,5 +1,4 @@
 # Customer Segmentation (Unsupervised Machine Learning for Cluster Analysis)
-<br>
 
 ## About The Project 
 <div style="font-family: Arial; font-size: 12pt; font-weight: bold; line-height:1.5"> 
